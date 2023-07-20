@@ -1,0 +1,4 @@
+The AWS Console Mobile Application, provided by Amazon Web Services, lets you view and manage a select set of resources and receive push notifications to stay informed and connected with your AWS resources while on-the-go. 
+
+The Console Mobile Application allows you to configure and receive push notifications for AWS services, monitor resources through a dedicated dashboard, and view configuration details, metrics, and alarms for select AWS services. The Dashboard provides permitted users with an overview of the account status, with real-time data on Amazon CloudWatch, AWS Health Dashboard, AWS Billing and Cost Management, and Recently Visited Services. You can view ongoing issues and follow through to the relevant CloudWatch alarm screen for a detailed view with graphs and configuration options. In addition, you can check on the status of specific AWS services, view detailed resource screens, and perform select actions. 
+
